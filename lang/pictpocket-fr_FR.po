@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pictpocket\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-24 12:58+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: DESPONT Olivier <admin@semageek.com>\n"
+"Language-Team: semageek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../pictPocket.php:128
+#: ../pictPocket.php:388
+#: ../pictPocket.php:454
+msgid "Overview"
+msgstr "Synthèse"
+
+#: ../pictPocket.php:131
+#: ../pictPocket.php:134
+msgid "HotLinks"
+msgstr "Hotlinks"
+
+#: ../pictPocket.php:138
+#: ../pictPocket.php:637
+msgid "Autorisations"
+msgstr "Autorisations"
+
+#: ../pictPocket.php:139
+msgid "Block by Text"
+msgstr "Blocage par Texte"
+
+#: ../pictPocket.php:140
+msgid "Block by Image"
+msgstr "Blocage par Image"
+
+#: ../pictPocket.php:144
+#: ../pictPocket.php:979
+msgid "Options"
+msgstr "Options"
+
+#: ../pictPocket.php:391
+msgid "Pictpocket version : "
+msgstr "Version de pictPocket :"
+
+#: ../pictPocket.php:393
+msgid "An original creation by Olivier Despont from"
+msgstr "Une création originale de Olivier Despont - "
+
+#: ../pictPocket.php:396
+msgid "Help Support This Plugin!"
+msgstr "Aidez le développement de ce Plugin !"
+
+#: ../pictPocket.php:398
+msgid "Please donate to the development of PictPocket using Paypal."
+msgstr "Merci de faire un don pour développement de PictPocket avec Paypal."
+
+#: ../pictPocket.php:409
+msgid "Management of the file"
+msgstr "Gestion du fichier"
+
+#: ../pictPocket.php:416
+msgid "File .htaccess exist."
+msgstr "Le Fichier .htaccess est présent"
+
+#: ../pictPocket.php:421
+msgid "The configuration of .htaccess for PickPocket is Ok"
+msgstr "La configuration de .htaccess pour PictPocket est ok."
+
+#: ../pictPocket.php:425
+msgid "Remove Pictpocket from .htaccess..."
+msgstr "Supprimer Pictpocket de .htaccess..."
+
+#: ../pictPocket.php:430
+msgid "The configuration of .htaccess for PickPocket is missing"
+msgstr "La configuration de .htaccess pour PictPocket est absente."
+
+#: ../pictPocket.php:432
+msgid "Warning"
+msgstr "Attention"
+
+#: ../pictPocket.php:433
+msgid "Some webhost don't accept the Rewrite URL fonction necessary for the PictPocket plugin."
+msgstr "Certains hebergeurs n'acceptent pas le rewrite d'url necessaire pour le fonctionnement du plugin."
+
+#: ../pictPocket.php:435
+msgid "In case of <b>Wordpress fail</b>, try to clear the .htaccess file in root forlder."
+msgstr "En cas de <b>plantage complet de Wordpress</b>, effacez le fichier .htaccess a la racine du site."
+
+#: ../pictPocket.php:439
+msgid "Auto Configuration..."
+msgstr "Configuration Automatique..."
+
+#: ../pictPocket.php:449
+msgid "The .htaccess file don't exist or is not writeable."
+msgstr "Le Fichier .htaccess n'existe pas ou et bloqué en ecriture."
+
+#: ../pictPocket.php:466
+msgid "Numbers of thieves : "
+msgstr "Nombre de voleurs : "
+
+#: ../pictPocket.php:476
+msgid "Numbers of hotlinking : "
+msgstr "Nombre de hotlinks : "
+
+#: ../pictPocket.php:485
+msgid "Numbers of autorized website : "
+msgstr "Nonmbre de site de confiance :"
+
+#: ../pictPocket.php:495
+msgid "Numbers of website blocked by Text: "
+msgstr "Nombre de sites bloqués par la méthode Texte:"
+
+#: ../pictPocket.php:505
+msgid "Numbers of website blocked by Image: "
+msgstr "Nombre de sites bloqués par la méthode Image:"
+
+#: ../pictPocket.php:508
+msgid "Manage Tables (if problem)"
+msgstr "Gestion des Tables (si problème)"
+
+#: ../pictPocket.php:515
+#: ../pictPocket.php:522
+#: ../pictPocket.php:529
+#: ../pictPocket.php:536
+msgid "There is a problem with the table "
+msgstr "Il y a un problème avec la table"
+
+#: ../pictPocket.php:516
+#: ../pictPocket.php:523
+#: ../pictPocket.php:530
+#: ../pictPocket.php:537
+msgid "Try to recreate the tables..."
+msgstr "Essayer de recréer les tables..."
+
+#: ../pictPocket.php:542
+msgid "If you have some problems with pictPocket you can recreate the table."
+msgstr "Si vous rencontrez un problème avec Pictpocket, vous pouvez recréer les tables."
+
+#: ../pictPocket.php:544
+msgid "This action will remove all data in pictPocket's table, be careful."
+msgstr "Cette action va détruire toutes les données des tables PictPocket, soyez prudent."
+
+#: ../pictPocket.php:548
+msgid "Recreate tables..."
+msgstr "Recréer les Tables..."
+
+#: ../pictPocket.php:645
+#: ../pictPocket.php:660
+#: ../pictPocket.php:713
+#: ../pictPocket.php:728
+#: ../pictPocket.php:778
+#: ../pictPocket.php:793
+msgid "RewriteCond"
+msgstr "RewriteCond"
+
+#: ../pictPocket.php:645
+#: ../pictPocket.php:654
+#: ../pictPocket.php:660
+#: ../pictPocket.php:713
+#: ../pictPocket.php:722
+#: ../pictPocket.php:728
+#: ../pictPocket.php:778
+#: ../pictPocket.php:787
+#: ../pictPocket.php:793
+#: ../pictPocket.php:1145
+msgid "Clear"
+msgstr "Effacer"
+
+#: ../pictPocket.php:664
+msgid "Add an autorisation..."
+msgstr "Ajouter une autorisation"
+
+#: ../pictPocket.php:665
+#: ../pictPocket.php:733
+#: ../pictPocket.php:798
+msgid "Example"
+msgstr "Exemple"
+
+#: ../pictPocket.php:666
+msgid "will autorised all the domain \"domain.tld\""
+msgstr "autorisera le domaine \"domain.tld\""
+
+#: ../pictPocket.php:667
+msgid "will autorised just the subdomain \"sub.domain.tld\""
+msgstr "autorisera seulement le sous domaine \"sub.domain.tld\""
+
+#: ../pictPocket.php:668
+msgid "will autorised all the domain \"domain\" with all tld"
+msgstr "autorisera le domaine \"domain\" avec toutes les extensions"
+
+#: ../pictPocket.php:671
+#: ../pictPocket.php:739
+#: ../pictPocket.php:804
+msgid "Add"
+msgstr "Ajouter"
+
+#: ../pictPocket.php:706
+msgid "Blocked by Text's method"
+msgstr "Blocage par méthode Texte"
+
+#: ../pictPocket.php:732
+msgid "Add a block website by text method..."
+msgstr "Ajouter un site bloqué par la méthode Texte"
+
+#: ../pictPocket.php:734
+#: ../pictPocket.php:799
+msgid "will block all the domain \"domain.tld\""
+msgstr "bloquera le tout le domaine \"domain.tld\""
+
+#: ../pictPocket.php:735
+#: ../pictPocket.php:800
+msgid "will block just the subdomain \"sub.domain.tld\""
+msgstr "bloquera juste  le sous domaine \"sub.domain.tld\""
+
+#: ../pictPocket.php:736
+#: ../pictPocket.php:801
+msgid "will block all the domain \"domain\" with all tld"
+msgstr "bloquera tout le domaine \"domain\" avec toutes les extensions"
+
+#: ../pictPocket.php:770
+msgid "Blocked by Image's method"
+msgstr "Blocage par méthode Image"
+
+#: ../pictPocket.php:797
+msgid "Add a block website by image method..."
+msgstr "Ajouter un site à blocker par la méthode Image..."
+
+#: ../pictPocket.php:981
+msgid "Custom Image"
+msgstr "Image personalisée."
+
+#: ../pictPocket.php:995
+msgid "If you want to use a custom image, just put the url below. Stay it empty for default image."
+msgstr "Si vous voulez utiliser une image personnalisée, ajouter l'URL dessous. Laissez vide pour celle par défaut."
+
+#: ../pictPocket.php:998
+msgid "Custom texte"
+msgstr "Texte personalisé."
+
+#: ../pictPocket.php:999
+msgid "Choose a message to display on the hotlinker's site."
+msgstr "Choisissez un message à afficher sur le site du hotlinker."
+
+#: ../pictPocket.php:1002
+msgid "Auto delete"
+msgstr "Effacement automatique"
+
+#: ../pictPocket.php:1004
+msgid "Automatically delete hotlink older than"
+msgstr "Effacer les hotlinks datant de plus de"
+
+#: ../pictPocket.php:1006
+msgid "Never delete!"
+msgstr "Jamais effacer!"
+
+#: ../pictPocket.php:1007
+#: ../pictPocket.php:1008
+#: ../pictPocket.php:1009
+#: ../pictPocket.php:1010
+#: ../pictPocket.php:1011
+#: ../pictPocket.php:1012
+#: ../pictPocket.php:1013
+msgid "day"
+msgstr "jour"
+
+#: ../pictPocket.php:1023
+msgid "Save options"
+msgstr "Sauvegarder les options"
+
+#: ../pictPocket.php:1057
+#: ../pictPocket.php:1152
+msgid "URL"
+msgstr "URL"
+
+#: ../pictPocket.php:1058
+#: ../pictPocket.php:1153
+msgid "Type"
+msgstr "Type"
+
+#: ../pictPocket.php:1060
+#: ../pictPocket.php:1155
+msgid "Date"
+msgstr "Date"
+
+#: ../pictPocket.php:1062
+#: ../pictPocket.php:1157
+msgid "Block"
+msgstr "Blocage"
+
+#: ../pictPocket.php:1063
+#: ../pictPocket.php:1158
+msgid "Last acces"
+msgstr "Dernier Acces"
+
+#: ../pictPocket.php:1091
+msgid "Default Engine"
+msgstr "Moteur par défault"
+
+#: ../pictPocket.php:1092
+msgid "D"
+msgstr "D"
+
+#: ../pictPocket.php:1096
+#: ../pictPocket.php:1373
+msgid "Masked Link"
+msgstr "Masqué"
+
+#: ../pictPocket.php:1097
+msgid "M"
+msgstr "M"
+
+#: ../pictPocket.php:1101
+#: ../pictPocket.php:1376
+msgid "Approve Link"
+msgstr "Liens de confiance"
+
+#: ../pictPocket.php:1102
+msgid "A"
+msgstr "C"
+
+#: ../pictPocket.php:1106
+#: ../pictPocket.php:1379
+msgid "Search Engine"
+msgstr "Moteur de Recherche"
+
+#: ../pictPocket.php:1107
+msgid "S"
+msgstr "R"
+
+#: ../pictPocket.php:1121
+msgid "Allow"
+msgstr "Autoriser"
+
+#: ../pictPocket.php:1123
+msgid "Allow Domain"
+msgstr "Autoriser le domaine"
+
+#: ../pictPocket.php:1128
+msgid "Unblock"
+msgstr "Déblocage"
+
+#: ../pictPocket.php:1133
+msgid "Block Texte"
+msgstr "Blocage par méthode Texte"
+
+#: ../pictPocket.php:1134
+msgid "Block Image"
+msgstr "Blocage par méthode Image"
+
+#: ../pictPocket.php:1136
+msgid "Block Texte Domain"
+msgstr "Bloquer le domaine par la méthode Texte"
+
+#: ../pictPocket.php:1137
+msgid "Block Image Domain"
+msgstr "Bloquer le domaine par la méthode Image"
+
+#: ../pictPocket.php:1165
+msgid "Clear Default"
+msgstr "Effacer les Défauts"
+
+#: ../pictPocket.php:1172
+msgid "Clear Masked"
+msgstr "Effacer les Masqués"
+
+#: ../pictPocket.php:1179
+msgid "Clear Approved"
+msgstr "Effacer les Confiances"
+
+#: ../pictPocket.php:1186
+msgid "Clear Search Engine"
+msgstr "effacer les Moteurs de Recherche"
+
+#: ../pictPocket.php:1194
+msgid "No result for the moment... be patient."
+msgstr "Pas de résultat pour le moment...soyez patient."
+
+#: ../pictPocket.php:1367
+msgid "Thieves"
+msgstr "Voleurs"
+
+#: ../pictPocket.php:1369
+msgid "Default Link"
+msgstr "Defaut"
+
+#: ../pictPocket.php:1384
+msgid "Clear All"
+msgstr "Effacer tout"
+
+#~ msgid "Donation"
+#~ msgstr "Donation"
+
+#~ msgid "The directory"
+#~ msgstr "Le répertoire"
+
+#~ msgid ""
+#~ " is not writeable.<br/>Use chmod command through your ftp or server "
+#~ "software in 777. "
+#~ msgstr ""
+#~ "n'a pas les droits en écriture.<br/>Utiliser la commande chmod de votre "
+#~ "client ftp  (chmod 777)."
+
+#~ msgid "Numbers"
+#~ msgstr "Nombre"
+
+#~ msgid "week"
+#~ msgstr "semaine"
+
+#~ msgid "weeks"
+#~ msgstr "semaines"
+
+#~ msgid "month"
+#~ msgstr "mois"
+
+#~ msgid "test_traduction"
+#~ msgstr "tttt"
